@@ -1,7 +1,7 @@
 # Logotyp application.pl
 + [Landing page: www.application.pl](https://www.application.pl/)
 + [Dokumentacja](https://docs.application.pl/)
-+ [Logotyp application.pl](https://logo.application.pl/)
++ [Logo.application.pl](https://logo.application.pl/)
 
 
 
